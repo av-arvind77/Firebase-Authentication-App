@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200889793238",
+    "firebase_url": "https://emailauth-5d2c4.firebaseio.com",
+    "project_id": "emailauth-5d2c4",
+    "storage_bucket": "emailauth-5d2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200889793238:android:f1f67dc3fc023f99",
+        "android_client_info": {
+          "package_name": "com.ooug.emailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200889793238-tsbermppi0jofaku0j8vv30132a0pe5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ooug.emailauth",
+            "certificate_hash": "9870398e9ac7ed4d4de61aa6ac195bd0a22c16d5"
+          }
+        },
+        {
+          "client_id": "200889793238-0960dsdj1r3qm2mnjml0be1uvfe4mv71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJABQlKTdPry--WVAmQneZIpVYAkyR90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200889793238-0960dsdj1r3qm2mnjml0be1uvfe4mv71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
